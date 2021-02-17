@@ -130,3 +130,6 @@ dmypy.json
 
 # MuseScore MIDI projects
 *.mscz
+
+# Pre-trained downloaded models
+models/
